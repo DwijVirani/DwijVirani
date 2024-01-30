@@ -3,7 +3,7 @@ I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada
 
 
 ## 💫 About Me:
-👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *me@dwijvirani23.com*<br><br>😄 Pronouns: *He/Him*
+👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
 
 
 ## 🌐 Socials:
@@ -20,7 +20,8 @@ I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=plastic&logo=postgresql&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
