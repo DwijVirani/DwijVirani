@@ -1,10 +1,11 @@
 ## Hi there 👋, Dwij here
 I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada 
 
+## 🎧 Listening:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r1e1s84nqwkxttz9djf7j157t&cover_image=false&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=r1e1s84nqwkxttz9djf7j157t&redirect=true)
 
 ## 💫 About Me:
-🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
-
+👯 I’m looking to collaborate on *[@vscode-extensions-pack](https://github.com/vscode-extensions-pack)* <br>🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/dwijvirani/) 
