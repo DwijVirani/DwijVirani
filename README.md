@@ -2,7 +2,7 @@
 I am a Full Stack Developer(MERN/MEAN) based in Toronto, Canada 
 
 ## 🎧 Listening:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r1e1s84nqwkxttz9djf7j157t&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=r1e1s84nqwkxttz9djf7j157t&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r1e1s84nqwkxttz9djf7j157t&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 💫 About Me:
 <br>🌱 I’m currently learning *IOS, Next.js ,Web3*<br>📫 email: *dwijvirani23@gmail.com*<br><br>😄 Pronouns: *He/Him*
